@@ -23,17 +23,15 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="stylus">
   header
-    margin-top 5rem
+    margin 5rem 0
     .autowidth
       margin 0 15%
       height 3rem
     .tagline
       color #444
       font-size 3rem
-      text-align left
       font-weight 700
     .desc
-      text-align left
       font-size 1.25rem
       color: #ccc
       font-weight 300

@@ -1,24 +1,25 @@
 <template>
-  <Navigator msg="Welcome to Your Vue.js App"/>
+  <Navigator/>
   <Introduction/>
+  <AboutMe/>
 </template>
 
 <script>
 import Navigator from './components/Navigator.vue'
 import Introduction from './components/Introduction.vue'
+import AboutMe from './components/AboutMe.vue'
 export default {
   name: 'App',
   components: {
     Navigator,
     Introduction,
+    AboutMe,
   }
 }
 </script>
 
 <style>
 #app {
-  font-family: Apercu,sans-serif;
-  text-align: center;
   color: #666;
 }
 a {
