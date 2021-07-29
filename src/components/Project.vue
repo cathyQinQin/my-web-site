@@ -1,5 +1,5 @@
 <template>
-  <h3 class="project-introduction">Here’s a few projects I’ve worked on:</h3>
+  <h2 class="project-introduction">Here’s a few projects I’ve worked on:</h2>
   <div class="projects-main">
     <section v-for="project in projects" 
             :key="project.id" 
@@ -36,7 +36,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="stylus">
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
   .project-introduction
+    font-family: 'Roboto', sans-serif;
     color #444
     padding 1rem 10% 
     text-align center
@@ -46,6 +48,7 @@ export default {
     flex-flow row wrap
     margin 0 10%
     justify-content space-between
+    border-bottom 1px solid #ddd
     section
       height 60vh
       margin-bottom 5%
@@ -63,11 +66,11 @@ export default {
         right: 0
         bottom: 0
         border-radius: 8px
-        transition box-shadow .16667s ease
+        transition border .16667s ease
+        box-shadow: 1px 3px 5px 4px rgba(204,204,204,0.75);
       .project__link:hover
         border 2px solid #aaa
-        box-shadow: 1px 3px 5px 4px rgba(204,204,204,0.75);
-      
+        
       .project-header
         flex 0 0 45%
         display flex
