@@ -8,3 +8,5 @@ build first page & components on main page
 build about Me page on main page
 # Day4 07/23/2021
 build project page on main page
+# Day5 07/23/2021
+build project footer on main page
