@@ -7,8 +7,8 @@
       <ul>
         <li><a class="left-to-right" href="#works">Works</a></li>
         <li><a class="left-to-right" href="#about">About</a></li>
-        <li class="nav-blog"><a class="left-to-right" href="http://IconMoon.com/blog2/" target="_blank">Blog</a></li>
-        <li><a class="left-to-right" href="https://Anyway.FM/index.php?s=iconmoon" target="_blank">Podcast</a></li>
+        <li class="nav-blog"><a class="left-to-right" href="https://blog.csdn.net/m0_53664781?spm=1019.2139.3001.5343" target="_blank">Blog</a></li>
+        <li><a class="left-to-right" href="https://leetcode-cn.com/u/zhang-qin-x/" target="_blank">Leetcode</a></li>
       </ul>
     </div>
   </nav>
@@ -33,7 +33,6 @@ export default {
     align-items center
     margin 0 15%
     height 3rem
-    border 1px solid #fff
     border-bottom 1px solid #ddd
     transition all .4s cubic-bezier(.4,0,0,1)
     .logo img

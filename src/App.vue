@@ -3,7 +3,6 @@
   <Introduction/>
   <AboutMe/>
   <Project/>
-  <Article/>
   <Footer/>
 </template>
 
@@ -12,7 +11,6 @@ import Navigator from './components/Navigator.vue'
 import Introduction from './components/Introduction.vue'
 import AboutMe from './components/AboutMe.vue'
 import Project  from './components/Project.vue'
-import Article  from './components/Article.vue'
 import Footer  from './components/Footer.vue'
 export default {
   name: 'App',
@@ -21,8 +19,7 @@ export default {
     Introduction,
     AboutMe,
     Project,
-    Article,
-    Footer,
+    Footer
   }
 }
 </script>

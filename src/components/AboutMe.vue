@@ -6,8 +6,8 @@
           <strong>About</strong> Me
         </h1>
         <div class="item-desc">
-          <div>Once I thought I could be a life-time pixel-pusher, but then I realize I'm more interested in the mixture of design and codes (maybe just tags, since I only knew HTML/CSS and JS). 😅</div>
-          <div>I live in Shanghai, China and currently work at <a href="http://xd.com/" target="_blank">XD</a> as a Senior UI designer. When I'm not working or feeding my little daughter, I love taking <a href="https://www.instagram.com/jjying/" target="_blank">stupid photos</a> and watching Man Utd games.</div>
+          <div>Although I participate in open-source project <strong> Review Board </strong> and previously worked as a student researcher at U of A for 8 months, I am still looking for a chance to be an intern in a real company😅</div>
+          <div>I live in Edmonton and currently study at <a href="https://www.ualberta.ca/index.html" target="_blank">U of A</a> as a graduate student. When I'm not working, I love solving problems on <a href="https://leetcode-cn.com/u/zhang-qin-x/" target="_blank">leetcode</a> and watching movies.</div>
         </div>
       </div>
       <div class="item-main autowidth contact-section">
@@ -63,6 +63,7 @@ export default {
         font-weight 200
         margin .1rem 0 0
         padding 0 5%
+        line-height 1.5rem
         a
           color #333
           font-weight 700
