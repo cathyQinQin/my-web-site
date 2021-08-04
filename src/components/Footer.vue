@@ -1,6 +1,6 @@
 <template>
     <footer aria-label="Site Footer" class="site-foot section section--flush-after wrap">
-        <a href="https://dorigo.co" class="site-foot__link">
+        <a href="https://github.com/cathyQinQin" class="site-foot__link">
             <img src="http://s.anw.red/iconmoon-2017/images/logo.png">
             <div>Designed and built by Qin.</div> 
         </a>
@@ -20,9 +20,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="stylus">
-@import url('https://fonts.googleapis.com/css2?family=Gowun+Dodum&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
     .site-foot
-        font-family 'Gowun Dodum', sans-serif
+        font-family 'Montserrat', sans-serif
+        font-size .85rem
         margin 0 38%
         .site-foot__link
             padding: .4rem 1.875rem 
