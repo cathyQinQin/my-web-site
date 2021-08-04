@@ -19,7 +19,7 @@ export default {
     Introduction,
     AboutMe,
     Project,
-    Footer,
+    Footer
   }
 }
 </script>
