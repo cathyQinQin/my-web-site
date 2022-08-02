@@ -1,7 +1,7 @@
 <template>
   <header>
     <section class="autowidth tagline">Hey There, I'm Qin Zhang,</section>
-    <section class="autowidth desc">based in Edmonton, Canada.</section>
+    <section class="autowidth desc">based in Vancouver, Canada.</section>
     <section class="autowidth tagline">Just Another Master's student.</section>
     <section class="autowidth desc">Studying at University of Alberta.</section>
     <section class="autowidth tagline">And know a lot about coding.</section>
