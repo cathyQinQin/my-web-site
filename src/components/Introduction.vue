@@ -5,7 +5,7 @@
     <section class="autowidth tagline">Just Another Master's student.</section>
     <section class="autowidth desc">Studying at University of Alberta.</section>
     <section class="autowidth tagline">And know a lot about coding.</section>
-    <section class="autowidth desc last-header">But just want a chance to work as intern. 😝</section>
+    <section class="autowidth desc last-header">But just want a chance to work as a full-time developer. 😝</section>
   </header>
 </template>
 

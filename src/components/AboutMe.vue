@@ -6,8 +6,8 @@
           <strong>About</strong> Me
         </h1>
         <div class="item-desc">
-          <div>Although I participate in open-source project <strong> Review Board </strong> and previously worked as a student researcher at U of A for 8 months, I am still looking for a chance to be an intern in a real company😅</div>
-          <div>I live in Edmonton and currently study at <a href="https://www.ualberta.ca/index.html" target="_blank">U of A</a> as a graduate student. When I'm not working, I love solving problems on <a href="https://leetcode-cn.com/u/zhang-qin-x/" target="_blank">leetcode</a> and watching movies.</div>
+          <div>Although I worked as a developer intern in <strong>Demonware</strong> and previously worked as a student researcher at U of A for 8 months, I am still looking for a chance to be a full-time developer. 😅</div>
+          <div>I live in Vancouver and currently study at <a href="https://www.ualberta.ca/index.html" target="_blank">U of A</a> as a graduate student. When I'm not working, I love analyzing algorithms on <a href="https://leetcode-cn.com/u/zhang-qin-x/" target="_blank">leetcode</a> and playing games on STEAM.</div>
         </div>
       </div>
       <div class="item-main autowidth contact-section">
